@@ -15,7 +15,7 @@ int main()
 //galaz 1
 //byl megre
 //g2
-//g3
+//g3 lalalala
 	int t, n, i, j, sum;
         int *S;
 	cout << "podaj ile sum chcesz liczyc ";
