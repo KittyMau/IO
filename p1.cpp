@@ -13,6 +13,7 @@ int main()
 
 {
 //galaz 1
+//maszyna 2
 	int t, n, i, j, sum;
         int *S;
 	cout << "podaj ile sum chcesz liczyc ";
