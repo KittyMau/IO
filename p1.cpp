@@ -15,7 +15,7 @@ int main()
 
 	int t, n, i, j, sum;
         int *S;
-	cout << "podaj ile sum chcesz liczyc";
+	cout << "podaj ile sum chcesz liczyc ";
 
 	cin >>t;
 	i=0;
@@ -23,6 +23,7 @@ int main()
 	while (i<t){
 
 	cin >>n;
+	cout << "ile liczb chcesz sumowac: ";
 	S=new int[n];
 	
 	for (j=0; j<n; j++) cin>>S[j];

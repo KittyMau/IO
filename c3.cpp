@@ -18,8 +18,8 @@ int main()
 	
 	cin >>t;
 	i=0;
-//jakas zmiena 1
-cout << "zmiana 1\n";
+//jakas zmiena
+cout << "zmiana 2\n";
 	while (i<t){
 
 	cin >>n;
