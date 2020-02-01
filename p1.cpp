@@ -25,7 +25,7 @@ int main()
 	cin >>n;
 	cout << "ile liczb chcesz sumowac: ";
 	S=new int[n];
-	
+	cout << "podaj swoje liczby: ";
 	for (j=0; j<n; j++) cin>>S[j];
 	cout <<"Suma podanych " <<n<<" liczb: ";
 	for (j=o; j<n< j++)cout <<S[j]<<" ";

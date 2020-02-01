@@ -19,7 +19,7 @@ int main()
 	cin >>t;
 	i=0;
 //jakas zmiena
-cout << "zmiana 2\n";
+cout << "zmiana 4\n";
 	while (i<t){
 
 	cin >>n;
