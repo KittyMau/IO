@@ -27,7 +27,7 @@ int main()
 	S=new int[n];
 	cout <<"podaj swoje liczby: ";	
 	for (j=0; j<n; j++) cin>>S[j];
-	cout <<"Suma podanych liczb: ";
+	cout <<"Suma podanych " <<n<<" liczb wynosi: ";
 	for (j=o; j<n< j++)cout <<S[j]<<" ";
 	cout << suma(S,0,n)<<endl;
 
