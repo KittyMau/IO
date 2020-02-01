@@ -1,5 +1,5 @@
 #include <iostream>
-
+//jakis komentarz
 
 
 using namespace std;
