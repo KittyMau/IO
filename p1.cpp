@@ -12,7 +12,10 @@ int suma (int T[], int p, int k);
 int main()
 
 {
+<<<<<<< HEAD
 //galaz 1
+//byl megre
+//g2
 	int t, n, i, j, sum;
         int *S;
 	cout << "podaj ile sum chcesz liczyc ";
