@@ -15,7 +15,8 @@ int main()
 
 	int t, n, i, j, sum;
         int *S;
-	
+	cout << "podaj ile sum chcesz liczyc";
+
 	cin >>t;
 	i=0;
 
